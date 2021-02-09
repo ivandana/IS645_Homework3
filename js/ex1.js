@@ -2,7 +2,7 @@ var name = prompt(`Please enter your name: `);
 var grade = parseInt(prompt(`Enter the number of units completed : `));
 
 if(grade<0){
-   console.log (`Invalid grade`);
+   console.log (`Invalid gradestanding`);
 }
 
 else{
